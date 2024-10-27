@@ -12,7 +12,7 @@ while capital_per_months >= months_spend:
  capital_per_months -= months_spend
  capital_per_months+= salary
  months_spend *= (1 + increase)
-
-print("Количество месяцев, которое можно протянуть без долгов:", months)
+ 
+ print("Количество месяцев, которое можно протянуть без долгов:", months)
 
 
